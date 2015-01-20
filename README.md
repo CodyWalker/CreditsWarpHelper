@@ -11,3 +11,6 @@ The hack looks at 3 sections of memory, each is represented by a '-' to the left
  - Mushroom and Vine: This section is the Y position for the Mushroom and Vine Sprites. They need to be 0x37 and 0x0D.
  - Throwable Block: This is the Y position of the fragments of the throwable block. They need to be 0x00 and 0xd8-0xe5.
  - Shells: This section is the X position of all 7 shells which should be: 0x0A,0x68,0x68,0x4A,0x92,0x75,0x60
+
+#Download
+I cannot distribute full ROMs of Super Mario World. In order to run this hack you will need a ROM file for Super Mario World (USA) and apply my patch. Download [the patch here](https://github.com/CodyWalker/CreditsWarpHelper/releases/download/1.0/SMW.Credits.Warp.Helper.v1.bps) and apply it to your ROM using [Floating IPS](http://www.smwcentral.net/?p=section&a=details&id=10347).
